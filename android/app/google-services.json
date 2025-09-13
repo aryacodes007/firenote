@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027514420214",
+    "project_id": "firenote-4ce1f",
+    "storage_bucket": "firenote-4ce1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027514420214:android:919b331e1f270035a955d7",
+        "android_client_info": {
+          "package_name": "com.app.firenote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZSVp0ZQ1r7PDpBZxLaXpL5bVn1zqSp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
