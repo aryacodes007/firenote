@@ -17,7 +17,7 @@ Users can add, view, and delete notes in real time with Firestore as the backend
 ## 🔧 Setup Instructions
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/notefire.git
+   git clone https://github.com/aryacodes007/firenote.git
    cd notefire
    `
 2. Get the dependencies:
